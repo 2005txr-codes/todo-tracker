@@ -6,6 +6,8 @@ A small, dependency-free to-do app. Add tasks with optional due dates, check the
 
 Open `index.html` in a browser. No build step or install needed.
 
+**[Live demo](https://2005txr-codes.github.io/todo-tracker/)**
+
 ## Host it free with GitHub Pages
 
 1. Push this repo to GitHub.
